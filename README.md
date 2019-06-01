@@ -7,4 +7,5 @@ A RESTful API example for simple CRUD application with Go
 2. Go to root of project
 3. Build: go build 
 4. Run: ./restapi
+5. Go to http://localhost:8000/api/books
 ```
